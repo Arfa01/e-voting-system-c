@@ -26,7 +26,8 @@ e-voting-system-c/
 ├── main.c
 ├── members.txt
 ├── voters.txt
-└── README.md
+├── README.md
+└── Assets
 
 
 > Note: Run the program from a terminal/command line with appropriate permissions to create and update the `.txt` files.
